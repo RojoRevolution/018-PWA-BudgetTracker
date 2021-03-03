@@ -1,0 +1,11 @@
+#instructions
+homework
+
+#DS_Store
+.DS_Store
+
+#Package-Lock
+package-log.json
+
+#Node-Modules
+node_modules

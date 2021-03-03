@@ -5,7 +5,7 @@ homework
 .DS_Store
 
 #Package-Lock
-package-log.json
+package-lock.json
 
 #Node-Modules
 node_modules
